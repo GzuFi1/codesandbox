@@ -1,0 +1,145 @@
+[
+  {
+    "link": "https://chessrush.fandom.com/wiki/Assassin",
+    "name": "Assassin",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/54/Assassin_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Their first normal attack deals 250% damage, and subsequent attacks have a 10% chance to make them invisible again.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Their first normal attack deals 250% damage, and subsequent attacks have a 30% chance to make them invisible again.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Classes",
+    "name": "Classes",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/54/Assassin_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Increases armor of all ally Warriors by 50.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Increases armor of all ally Warriors by 100.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Druid",
+    "name": "Druid",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/7/75/Druid_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "2 identical 1-star druids can be combined to a 2-star one instead of 3. Restore 10 mana for allies within 1 grid upon death.\n"
+      },
+      {
+        "numbersRequest": "2",
+        "effectDescription": "2 identical 2-star druids can be combined to a 3-star one instead of 3. Restore 20 mana for allies within 1 grid upon death.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Engineer",
+    "name": "Engineer",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/41/Engineer_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Increases health regeneration of ally engineers by 45.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Increases health regeneration of ally engineers by 120.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Hunter",
+    "name": "Hunter",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/d/dd/Hunter_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Increases attack damage of ally hunters by 25%.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Increases attack damage of ally hunters by 60%.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Punisher",
+    "name": "Punisher",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/ca/Punisher_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "1",
+        "effectDescription": "The ally punisher will be treated as an enemy Demon.\n"
+      },
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Ally Demons are now treated as punishers, but their bonus remains.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Ally Punishers’ normal attacks deal 35% physical damage to enemies within 1 square of the target.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Rider",
+    "name": "Rider",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/42/Rider_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "25% chance to get 150 armor and 60% magic resistance for ally riders.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "45% chance to get 185 armor and 65% magic resistance for ally riders.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "65% chance to get 230 armor and 70% magic resistance for ally riders.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Sorcerer",
+    "name": "Sorcerer",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/7/7b/Sorcerer_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Reduces enemy magic resistance by 30.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Reduces enemy magic resistance by 60.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Warlock",
+    "name": "Warlock",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/3/3f/Warlock_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Increases life steal of all allies by +15%. Excess health from life steal becomes a shield.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Increases life steal of all allies by +25%. Excess health from life steal becomes a shield.\n"
+      }
+    ]
+  }
+]

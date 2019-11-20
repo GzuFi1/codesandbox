@@ -33,18 +33,6 @@ if (active) {
   console.log(searchMap);
 }
 
-window.searchMyItems = function searchMyItems() {
-  // Declare variables
-  let filter, result;
-  filter = document.getElementById("myInput").value.toUpperCase();
-  result = document.getElementById("result");
-  // Loop through all list items, and hide those who don't match the search query
-  for (let i = 0; i < searchMap.length; i++) {
-    if (searchMap[i].name.includes(filter))
-      result.innerText += searchMap[i].name;
-  }
-};
-
 function populateRarity(rarity) {
   let innerHtml = getRequest(rarity.link);
   let explanation = innerHtml.getElementsByClassName(

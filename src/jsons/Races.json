@@ -1,0 +1,195 @@
+[
+  {
+    "link": "https://chessrush.fandom.com/wiki/Beast",
+    "name": "Beast",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/1/15/Beast_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Increase attack damage of all allies by 10% (can be inherited by pets summoned).\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Allies have a 40% chance to summon a Pet at the beginning of the battle.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Allies have a 60% chance to summon a Pet at the beginning of the battle.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Cyborg",
+    "name": "Cyborg",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/7/73/Cyborg_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Increases a random ally's armor by 75 and health regeneration by 30.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Increases ally cyborg's armor by 75 and health regeneration by 30.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Demon",
+    "name": "Demon",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/63/Demon_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "1",
+        "effectDescription": "When you deploy only 1 Demon, then its attack damage is increased by 40%. Its attack also causes its target to take 10% more damage for 5 seconds.\n"
+      },
+      {
+        "numbersRequest": "2+",
+        "effectDescription": "The demon bonus is lost.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Dragon",
+    "name": "Dragon",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/9/91/Dragon_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Restore 30 mana instantly at the beginning of the battle for ally dragons.\n"
+      },
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Restore 100 mana instantly at the beginning of the battle for ally dragons.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Elf",
+    "name": "Elf",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/9/9a/Elf_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "3",
+        "effectDescription": "Grant ally elves a 25% chance to dodge attacks.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Grant ally elves a 44% chance to dodge attacks.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Furry",
+    "name": "Furry",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/1/1f/Furry_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Ally furries receive a shield that absorbs 800 damage.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Ally furries receive a shield that absorbs 2000 damage.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Goblin",
+    "name": "Goblin",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/8/8b/Goblin_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Attack speed +35% for ally goblins.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Attack speed +35% for all allies.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Human",
+    "name": "Human",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/c0/Human_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Restore 5MP every second for all allies.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Ally Humans have 25% chance to reset the ability's cooldown and restore 100 mana after casting an ability.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Ally Humans have 50% chance to reset the ability's cooldown and restore 100 mana after casting an ability.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Jelly",
+    "name": "Jelly",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/68/Jelly_icon.png"
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Oceanborn",
+    "name": "Oceanborn",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/e2/Oceanborn_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Increase magic resistance of all allies by 20.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "A random ally gains Ability Immunity for 60 seconds.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Races",
+    "name": "Races",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/c0/Human_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Restore 3MP every second for all allies.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Ally Humans have 25% chance to reset the ability's cooldown and restore 100 mana after casting an ability.\n"
+      },
+      {
+        "numbersRequest": "6",
+        "effectDescription": "Ally Humans have 50% chance to reset the ability's cooldown and restore 100 mana after casting an ability.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Undead",
+    "name": "Undead",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/a/ae/Undead_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Reduces the armor of all enemies by 20.\n"
+      },
+      {
+        "numbersRequest": "4",
+        "effectDescription": "Reduces the armor of all enemies by 50.\n"
+      }
+    ]
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Void",
+    "name": "Void",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/2/29/Void_icon.png",
+    "raceEffects": [
+      {
+        "numbersRequest": "2",
+        "effectDescription": "Decreases a random enemy's max health by 50%.\n"
+      }
+    ]
+  }
+]

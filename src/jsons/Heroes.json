@@ -1,0 +1,3405 @@
+[
+  {
+    "link": "https://chessrush.fandom.com/wiki/Bangar",
+    "name": "Bangar",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/52/Bangar_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/6e/Taunt_icon.png",
+      "name": "Taunt",
+      "description": " Shouts to attract attention of enemies within 1 grid and forces them to attack him. Ignores ability immunity and increases armor by 25/50/75 for 2/3/4s.10 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/52/Bangar_01.png",
+        "healthPoints": "2300",
+        "attackDamage": "157",
+        "armorLevel": "25",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/18/Bangar_02.png",
+        "healthPoints": "4600",
+        "attackDamage": "315",
+        "armorLevel": "25",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/1c/Bangar_03.png",
+        "healthPoints": "9200",
+        "attackDamage": "630",
+        "armorLevel": "25",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Furry"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": { "undefined": ["Firefur", "Starhorn", "Wukong"] },
+      "classes": {
+        "undefined": [
+          "Berserker",
+          "General Puffer",
+          "General of War",
+          "Glutton",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Berserker",
+    "name": "Berserker",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/b/b6/Berserker_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/f4/Quick_Assault_icon.png",
+      "name": "Quick Assault",
+      "description": " When attacking the same enemy, each consecutive normal attack increases attack speed by 9/ 12/ 15, up to 10/15/20 times. Half of the stacks are lost when switching to another target.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/b6/Berserker_01.png",
+        "healthPoints": "2800",
+        "attackDamage": "290",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/44/Berserker_02.png",
+        "healthPoints": "5600",
+        "attackDamage": "580",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d4/Berserker_03.png",
+        "healthPoints": "11200",
+        "attackDamage": "1160",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Goblin"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": {
+        "undefined": ["Headreaper", "Hog Rider", "Totemface", "Voodoo Elder"]
+      },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "General Puffer",
+          "General of War",
+          "Glutton",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Bionic_Ninja",
+    "name": "Bionic Ninja",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/d/d0/Bionic_Ninja_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d0/Energy_Blade_icon.png",
+      "name": "Energy Blade",
+      "description": " Fires an energy blade at a random enemy (high chance to attack the nearest enemy), dealing 600/1000/1400 magic damage and stunning the target for 0.75s. This ability deals double damage to enemies with a lower level.5 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d0/Bionic_Ninja_01.png",
+        "healthPoints": "1800",
+        "attackDamage": "165",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/48/Bionic_Ninja_02.png",
+        "healthPoints": "3600",
+        "attackDamage": "330",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/94/Bionic_Ninja_03.png",
+        "healthPoints": "7200",
+        "attackDamage": "660",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Stalker Drone S90",
+          "Steel Fist",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Headreaper",
+          "Horned Menace",
+          "Lilith",
+          "Siren",
+          "Stinger",
+          "Sword Dancer",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Calamity",
+    "name": "Calamity",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/b/b8/Calamity_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c5/Dark_Space_icon.png",
+      "name": "Dark Space",
+      "description": " Grants the ally with lowest health a shield that absorbs up to 300/450/600 damage. The shield lasts 1Os and explodes after absorbing the maximum amount of damage, dealing 300/450/600 magic damage to enemies within 3 grids.12 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/b8/Calamity_01.png",
+        "healthPoints": "2400",
+        "attackDamage": "155",
+        "armorLevel": "45",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fa/Calamity_02.png",
+        "healthPoints": "4800",
+        "attackDamage": "310",
+        "armorLevel": "45",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/3d/Calamity_03.png",
+        "healthPoints": "9600",
+        "attackDamage": "620",
+        "armorLevel": "45",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Undead"],
+    "classes": ["Rider"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Famine",
+          "Glutton",
+          "Misfortune",
+          "Stinger",
+          "The Dark Mage"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Dragoon",
+          "Hog Rider",
+          "Scourge",
+          "Templar Knight",
+          "Unicorn Cavalier"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Dragoon",
+    "name": "Dragoon",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/54/Dragoon_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/28/Dragon_Form_icon.png",
+      "name": "Dragon Form",
+      "description": " Transforms into a dragon, increasing attack damage by 200/350/500 and attack range by 3 squares. The dragon's attacks deal 30%/60%/90% splash damage to enemies within 1/2/2 squares of the target.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/54/Dragoon_01.png",
+        "healthPoints": "2600",
+        "attackDamage": "210",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/9d/Dragoon_02.png",
+        "healthPoints": "5400",
+        "attackDamage": "420",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/f0/Dragoon_03.png",
+        "healthPoints": "10400",
+        "attackDamage": "840",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Human", "Dragon"],
+    "classes": ["Rider"],
+    "synergies": {
+      "races": { "undefined": ["Moonlight Dragon", "Venom"] },
+      "classes": {
+        "undefined": [
+          "Calamity",
+          "Hog Rider",
+          "Scourge",
+          "Templar Knight",
+          "Unicorn Cavalier"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Everbloom",
+    "name": "Everbloom",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/45/Everbloom_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/0c/Devouring_Plant_icon.png",
+      "name": "Devouring Plant",
+      "description": " Summons a flower spirit with 150/210/270 attack damage and 1500/2100/2700 HP.7 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/45/Everbloom_01.png",
+        "healthPoints": "1650",
+        "attackDamage": "155",
+        "armorLevel": "15",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e1/Everbloom_02.png",
+        "healthPoints": "2880",
+        "attackDamage": "310",
+        "armorLevel": "15",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/ff/Everbloom_03.png",
+        "healthPoints": "5055",
+        "attackDamage": "620",
+        "armorLevel": "15",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Elf"],
+    "classes": ["Druid"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Evergreen",
+          "Forest's Breath",
+          "Moonlight Dragon",
+          "Nightingale",
+          "Stinger",
+          "Sword Dancer",
+          "Unicorn Cavalier"
+        ]
+      },
+      "classes": {
+        "undefined": ["Evergreen", "Gurru", "Nightowl", "Witch Doctor"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Evergreen",
+    "name": "Evergreen",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/9/93/Evergreen_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a8/Seed_of_Nature_icon.png",
+      "name": "Seed of Nature",
+      "description": " Casts a seed of nature ata random enemy, dealing 90/120/150 magic damage every 1.5s while healing the allies within 3 grids for the same amount. Lasts 5s.8 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/93/Evergreen_01.png",
+        "healthPoints": "2250",
+        "attackDamage": "230",
+        "armorLevel": "20",
+        "attackSpeed": "2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/71/Evergreen_02.png",
+        "healthPoints": "3940",
+        "attackDamage": "460",
+        "armorLevel": "20",
+        "attackSpeed": "2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/9b/Evergreen_03.png",
+        "healthPoints": "6890",
+        "attackDamage": "920",
+        "armorLevel": "20",
+        "attackSpeed": "2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Elf"],
+    "classes": ["Druid"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Everbloom",
+          "Forest's Breath",
+          "Moonlight Dragon",
+          "Nightingale",
+          "Stinger",
+          "Sword Dancer",
+          "Unicorn Cavalier"
+        ]
+      },
+      "classes": {
+        "undefined": ["Everbloom", "Gurru", "Nightowl", "Witch Doctor"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Famine",
+    "name": "Famine",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/47/Famine_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/66/Soul_Siphon_icon.png",
+      "name": "Soul Siphon",
+      "description": " Gains 10 attack damage for every unit killed in battle. Stacks up to 6/8/10 times.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/47/Famine_01.png",
+        "healthPoints": "1600",
+        "attackDamage": "165",
+        "armorLevel": "15",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/63/Famine_02.png",
+        "healthPoints": "3200",
+        "attackDamage": "330",
+        "armorLevel": "15",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bb/Famine_03.png",
+        "healthPoints": "6400",
+        "attackDamage": "660",
+        "armorLevel": "15",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Undead"],
+    "classes": ["Hunter"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Calamity",
+          "Glutton",
+          "Misfortune",
+          "Stinger",
+          "The Dark Mage"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Firefur",
+          "Forest's Breath",
+          "Hog Rider",
+          "King of the Sea",
+          "Kraken",
+          "Stalker Drone S90"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Firefur",
+    "name": "Firefur",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/ea/Firefur_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e4/Whirling_Blades_icon.png",
+      "name": "Whirling Blades",
+      "description": " Tosses two blades that travel forward and return. Each blade deals 210/330/450 physical damage to enemies on its path. Those hit by the blades take 10%/20%30% extra damage.6 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/ea/Firefur_01.png",
+        "healthPoints": "2200",
+        "attackDamage": "185",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/25/Firefur_02.png",
+        "healthPoints": "4400",
+        "attackDamage": "370",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a0/Firefur_03.png",
+        "healthPoints": "8800",
+        "attackDamage": "740",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Furry"],
+    "classes": ["Hunter"],
+    "synergies": {
+      "races": { "undefined": ["Bangar", "Starhorn", "Wukong"] },
+      "classes": {
+        "undefined": [
+          "Famine",
+          "Forest's Breath",
+          "Hog Rider",
+          "King of the Sea",
+          "Kraken",
+          "Stalker Drone S90"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Flamecaller",
+    "name": "Flamecaller",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/64/Flamecaller_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c0/Cleansing_Flame_icon.png",
+      "name": "Cleansing Flame",
+      "description": " Creates an explosion on the enemy with the highest level, dealing 1500/2250/3000 magic damage. If the target dies, the remaining damage is dealt to nearby enemies.5 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/64/Flamecaller_01.png",
+        "healthPoints": "1850",
+        "attackDamage": "190",
+        "armorLevel": "20",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/52/Flamecaller_02.png",
+        "healthPoints": "3700",
+        "attackDamage": "380",
+        "armorLevel": "20",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/ab/Flamecaller_03.png",
+        "healthPoints": "7400",
+        "attackDamage": "760",
+        "armorLevel": "20",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Human"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Dragoon",
+          "Frost Lotus",
+          "General of War",
+          "Lightbringer",
+          "Templar Knight",
+          "Werewolf"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Frost Lotus",
+          "Lightbringer",
+          "Moonlight Dragon",
+          "Starhorn",
+          "The Dark Mage",
+          "Totemface",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Forest%27s_Breath",
+    "name": "Forest's Breath",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/c6/Forest%27s_Breath_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c3/Full_Swing_icon.png",
+      "name": "Full Swing",
+      "description": " Hurls a boomerang after charging for 0.5s, dealing 1200/1800/2400 magic damage to enemies on its path. If interupted while charging, the boomerang will be thrown immediately.10 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c6/Forest%27s_Breath_01.png",
+        "healthPoints": "1650",
+        "attackDamage": "190",
+        "armorLevel": "20",
+        "attackSpeed": "0.9",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/b5/Forest%27s_Breath_02.png",
+        "healthPoints": "3300",
+        "attackDamage": "380",
+        "armorLevel": "20",
+        "attackSpeed": "0.9",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/23/Forest%27s_Breath_03.png",
+        "healthPoints": "6600",
+        "attackDamage": "760",
+        "armorLevel": "20",
+        "attackSpeed": "0.9",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Elf"],
+    "classes": ["Hunter"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Everbloom",
+          "Evergreen",
+          "Moonlight Dragon",
+          "Nightingale",
+          "Stinger",
+          "Sword Dancer",
+          "Unicorn Cavalier"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Famine",
+          "Firefur",
+          "Hog Rider",
+          "King of the Sea",
+          "Kraken",
+          "Stalker Drone S90"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Frost_Lotus",
+    "name": "Frost Lotus",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/54/Frost_Lotus_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/28/Frozen_Storm_icon.png",
+      "name": "Frozen Storm",
+      "description": " Creates a storm at the feet of a random enemy, dealing 250/425/600 magic damage per second to all enemies within 4 grids and slowing them by 40% for 3s.10 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/54/Frost_Lotus_01.png",
+        "healthPoints": "1500",
+        "attackDamage": "107",
+        "armorLevel": "15",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8f/Frost_Lotus_02.png",
+        "healthPoints": "3000",
+        "attackDamage": "215",
+        "armorLevel": "15",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a6/Frost_Lotus_03.png",
+        "healthPoints": "6000",
+        "attackDamage": "430",
+        "armorLevel": "15",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Human"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Dragoon",
+          "Flamecaller",
+          "General of War",
+          "Lightbringer",
+          "Templar Knight",
+          "Werewolf"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Lightbringer",
+          "Moonlight Dragon",
+          "Starhorn",
+          "The Dark Mage",
+          "Totemface",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/General_of_War",
+    "name": "General of War",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/f/fc/General_of_War_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a1/Light_of_Leadership_icon.png",
+      "name": "Light of Leadership",
+      "description": " Summons a magic sword above a random enemy. The sword falls after 3s, dealing 400/550/700  magic damage to all enemies within 3 squares and stunning them for 1.4s.10 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fc/General_of_War_01.png",
+        "healthPoints": "3000",
+        "attackDamage": "280",
+        "armorLevel": "60",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/ef/General_of_War_02.png",
+        "healthPoints": "6000",
+        "attackDamage": "560",
+        "armorLevel": "60",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/81/General_of_War_03.png",
+        "healthPoints": "12000",
+        "attackDamage": "1120",
+        "armorLevel": "60",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Human"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Dragoon",
+          "Flamecaller",
+          "Frost Lotus",
+          "Lightbringer",
+          "Templar Knight",
+          "Werewolf"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General Puffer",
+          "Glutton",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/General_Puffer",
+    "name": "General Puffer",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/e2/Oceanborn_icon.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/00/Water_Bolt_icon.png",
+      "name": "Water Bolt",
+      "description": " Fires jets of water at 2 random enemies, dealing 150/225/300 magic damage and reducing the targets' armor by 50/75/150 for 20s.3 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "healthPoints": "2000",
+        "attackDamage": "225",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "healthPoints": "4000",
+        "attackDamage": "450",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "healthPoints": "8000",
+        "attackDamage": "900",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Oceanborn"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": { "undefined": ["King of the Sea", "Kraken", "Siren"] },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General of War",
+          "Glutton",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Glutton",
+    "name": "Glutton",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/ec/Grim_Slash_icon.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/ec/Grim_Slash_icon.png",
+      "name": "Grim Slash",
+      "description": " Slashes all enemies in the front and absorbs their souls, dealing 450/600/750 magic damage. For every enemy hit, restores 12%/16%/20% of health lost.8 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8c/Glutton_01.png",
+        "healthPoints": "2400",
+        "attackDamage": "160",
+        "armorLevel": "25",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/9f/Glutton_02.png",
+        "healthPoints": "4800",
+        "attackDamage": "320",
+        "armorLevel": "25",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a4/Glutton_03.png",
+        "healthPoints": "9600",
+        "attackDamage": "640",
+        "armorLevel": "25",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Undead"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Calamity",
+          "Famine",
+          "Misfortune",
+          "Stinger",
+          "The Dark Mage"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General Puffer",
+          "General of War",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Groundsmasher",
+    "name": "Groundsmasher",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/0/05/Smash_icon.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/05/Smash_icon.png",
+      "name": "Smash",
+      "description": " Smashes the ground to deal 400/550/700 true damage to enemies within 2 grids.6/5/4 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "healthPoints": "2400",
+        "attackDamage": "172",
+        "armorLevel": "50",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "healthPoints": "4800",
+        "attackDamage": "345",
+        "armorLevel": "50",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "healthPoints": "9600",
+        "attackDamage": "690",
+        "armorLevel": "50",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Engineer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Bionic Ninja",
+          "Miss Supersonic",
+          "Stalker Drone S90",
+          "Steel Fist",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Miss Supersonic",
+          "Steel Fist",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Gurru",
+    "name": "Gurru",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/68/Jelly_icon.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c6/I_am_Gurru_icon.png",
+      "name": "I am Gurru",
+      "description": " Gurru loves peace and refuses to fight. When you have 2 identical heroes, you can drag Gurru with same star on either of them to combine them into a higher level hero.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "healthPoints": "1650",
+        "attackDamage": "160",
+        "armorLevel": "20",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "0"
+      },
+      {
+        "level": 2,
+        "healthPoints": "3300",
+        "attackDamage": "320",
+        "armorLevel": "20",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "0"
+      },
+      {
+        "level": 3,
+        "healthPoints": "6600",
+        "attackDamage": "640",
+        "armorLevel": "20",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "0"
+      }
+    ],
+    "races": ["Jelly"],
+    "classes": ["Druid"],
+    "synergies": {
+      "races": { "undefined": [] },
+      "classes": {
+        "undefined": ["Everbloom", "Evergreen", "Nightowl", "Witch Doctor"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Headreaper",
+    "name": "Headreaper",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/8/8b/Goblin_icon.png",
+    "skill": {
+      "name": "Death from Above",
+      "description": "ove icon.pngDeath from Above  Deals high damage to the enemy with the lowest HP. If target is killed, it reduces 80% of the cooldown and 80 mana will be returned.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/64/Headreaper_01.png",
+        "healthPoints": "1800",
+        "attackDamage": "225",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/94/Headreaper_02.png",
+        "healthPoints": "3600",
+        "attackDamage": "450",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8d/Headreaper_03.png",
+        "healthPoints": "7200",
+        "attackDamage": "900",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Goblin"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": ["Berserker", "Hog Rider", "Totemface", "Voodoo Elder"]
+      },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Horned Menace",
+          "Lilith",
+          "Siren",
+          "Stinger",
+          "Sword Dancer",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Hog_Rider",
+    "name": "Hog Rider",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/42/Rider_icon.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/67/Charrrrrrge_icon.png",
+      "name": "Charrrrrrge",
+      "description": " After taking lethal damage, charges towards the nearest enemy and deals 400/600/800 magic damage to all targets within 1 grid, stunning them for 0.5s.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/5c/Hog_Rider_01.png",
+        "healthPoints": "2000",
+        "attackDamage": "155",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/ca/Hog_Rider_02.png",
+        "healthPoints": "4000",
+        "attackDamage": "310",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d7/Hog_Rider_03.png",
+        "healthPoints": "8000",
+        "attackDamage": "620",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Goblin"],
+    "classes": ["Rider", "Hunter"],
+    "synergies": {
+      "races": {
+        "undefined": ["Berserker", "Headreaper", "Totemface", "Voodoo Elder"]
+      },
+      "classes": {
+        "undefined": [
+          "Famine",
+          "Firefur",
+          "Forest's Breath",
+          "King of the Sea",
+          "Kraken",
+          "Stalker Drone S90"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Horned_Menace",
+    "name": "Horned Menace",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/a/a8/Horned_Menace_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a8/Dash_icon.png",
+      "name": "Dash",
+      "description": " Dashes forward and deals 450/750/1050 magic damage to enemies on the path. Targets are also stunned for 2s.8 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a8/Horned_Menace_01.png",
+        "healthPoints": "2200",
+        "attackDamage": "210",
+        "armorLevel": "25",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/94/Horned_Menace_02.png",
+        "healthPoints": "4400",
+        "attackDamage": "420",
+        "armorLevel": "25",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/ca/Horned_Menace_03.png",
+        "healthPoints": "8800",
+        "attackDamage": "840",
+        "armorLevel": "25",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Beast"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Icetusk",
+          "Marsh Lord",
+          "Nightowl",
+          "Venom",
+          "Werewolf",
+          "Witch Doctor"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Headreaper",
+          "Lilith",
+          "Siren",
+          "Stinger",
+          "Sword Dancer",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Icetusk",
+    "name": "Icetusk",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/a/a6/Icetusk_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/7a/Glacier_Strike_icon.png",
+      "name": "Glacier Strike",
+      "description": " Deals 300%/350%/400% physical damage to an enemy within 1 grid and knocking it into the air for Is. Ignores ability immunity.7 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a6/Icetusk_01.png",
+        "healthPoints": "2000",
+        "attackDamage": "157",
+        "armorLevel": "25",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c7/Icetusk_02.png",
+        "healthPoints": "4000",
+        "attackDamage": "315",
+        "armorLevel": "25",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c4/Icetusk_03.png",
+        "healthPoints": "8000",
+        "attackDamage": "630",
+        "armorLevel": "25",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Beast"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Horned Menace",
+          "Marsh Lord",
+          "Nightowl",
+          "Venom",
+          "Werewolf",
+          "Witch Doctor"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General Puffer",
+          "General of War",
+          "Glutton",
+          "The Executioner",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/King_of_the_Sea",
+    "name": "King of the Sea",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/e3/King_of_the_Sea_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/37/Fury_of_Deep_Sea_icon.png",
+      "name": "Fury of Deep Sea",
+      "description": " Summons sharks, dealing 450/750/1050 magic damage to enemies within 4/5/6 grids and stunning them for 2/2.5/3s.30 seconds cooldown.\n"
+    },
+    "rarity": "Legendary",
+    "cost": "5",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e3/King_of_the_Sea_01.png",
+        "healthPoints": "3000",
+        "attackDamage": "270",
+        "armorLevel": "50",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a0/King_of_the_Sea_02.png",
+        "healthPoints": "6000",
+        "attackDamage": "540",
+        "armorLevel": "50",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bb/King_of_the_Sea_03.png",
+        "healthPoints": "12000",
+        "attackDamage": "1080",
+        "armorLevel": "50",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Oceanborn"],
+    "classes": ["Hunter"],
+    "synergies": {
+      "races": { "undefined": ["General Puffer", "Kraken", "Siren"] },
+      "classes": {
+        "undefined": [
+          "Famine",
+          "Firefur",
+          "Forest's Breath",
+          "Hog Rider",
+          "Kraken",
+          "Stalker Drone S90"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Kraken",
+    "name": "Kraken",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/49/Kraken_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/23/Deepsea_Coil_icon.png",
+      "name": "Deepsea Coil",
+      "description": " Spits ink for 4s. Enemies still affected by the ink after 2s have a 80%/90%/100% chance of being stunned for 3s and take 400/550/700 magic damage. Stunned enemies also take an additional 30% physical damage.20 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/49/Kraken_01.png",
+        "healthPoints": "2250",
+        "attackDamage": "220",
+        "armorLevel": "30",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/ea/Kraken_02.png",
+        "healthPoints": "4500",
+        "attackDamage": "440",
+        "armorLevel": "30",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/51/Kraken_03.png",
+        "healthPoints": "9000",
+        "attackDamage": "880",
+        "armorLevel": "30",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Oceanborn"],
+    "classes": ["Hunter"],
+    "synergies": {
+      "races": { "undefined": ["General Puffer", "King of the Sea", "Siren"] },
+      "classes": {
+        "undefined": [
+          "Famine",
+          "Firefur",
+          "Forest's Breath",
+          "Hog Rider",
+          "King of the Sea",
+          "Stalker Drone S90"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Lightbringer",
+    "name": "Lightbringer",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/a/ae/Lightbringer_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e1/Holy_Light_icon.png",
+      "name": "Holy Light",
+      "description": " Unleashes a shockwave after 3s, dealing 600/900/1200 damage to all enemies in its path. Magic damage increases by 200/300/400 for every 1s spent charging. Shockwave is unleashed immediately if charging is interrupted.14/12/10 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/ae/Lightbringer_01.png",
+        "healthPoints": "2200",
+        "attackDamage": "200",
+        "armorLevel": "30",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a9/Lightbringer_02.png",
+        "healthPoints": "4400",
+        "attackDamage": "400",
+        "armorLevel": "30",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/be/Lightbringer_03.png",
+        "healthPoints": "8800",
+        "attackDamage": "800",
+        "armorLevel": "30",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Human"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Dragoon",
+          "Flamecaller",
+          "Frost Lotus",
+          "General of War",
+          "Templar Knight",
+          "Werewolf"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Frost Lotus",
+          "Moonlight Dragon",
+          "Starhorn",
+          "The Dark Mage",
+          "Totemface",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Lilith",
+    "name": "Lilith",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/f/fd/Lilith_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/aa/Death_Bloom_icon.png",
+      "name": "Death Bloom",
+      "description": " Tosses a large amount of magic blades at enemies within 3 grids, dealing 525/675/825 magic damage.6 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fd/Lilith_01.png",
+        "healthPoints": "1650",
+        "attackDamage": "172",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fc/Lilith_02.png",
+        "healthPoints": "3300",
+        "attackDamage": "345",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/b3/Lilith_03.png",
+        "healthPoints": "6600",
+        "attackDamage": "690",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Demon"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Nether Prince",
+          "Scourge",
+          "The Devourer",
+          "The Executioner"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Headreaper",
+          "Horned Menace",
+          "Siren",
+          "Stinger",
+          "Sword Dancer",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Marsh_Lord",
+    "name": "Marsh Lord",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/3/38/Marsh_Lord_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/95/Incubate_icon.png",
+      "name": "Incubate",
+      "description": " Summons a frogling whose attacks reduce the target's attack speed by 30%. The frogling is immune to enemy abilities, and has 250/400/550 attack damage and 400/700/1000 HP.9/8/7 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/38/Marsh_Lord_01.png",
+        "healthPoints": "1750",
+        "attackDamage": "170",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/48/Marsh_Lord_02.png",
+        "healthPoints": "3500",
+        "attackDamage": "340",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8e/Marsh_Lord_03.png",
+        "healthPoints": "7000",
+        "attackDamage": "680",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Beast"],
+    "classes": ["Warlock"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Horned Menace",
+          "Icetusk",
+          "Nightowl",
+          "Venom",
+          "Werewolf",
+          "Witch Doctor"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Misfortune",
+          "Nether Prince",
+          "Void: Doom",
+          "Voodoo Elder"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Misfortune",
+    "name": "Misfortune",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/b/bc/Misfortune_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/19/Shadow_Pulse_icon.png",
+      "name": "Shadow Pulse",
+      "description": " Casts a shadow pulse that deals 300/450/600 magic damage to enemies within 3 grids and heals allies (including herself) for 300/450/600.5 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bc/Misfortune_01.png",
+        "healthPoints": "2800",
+        "attackDamage": "175",
+        "armorLevel": "30",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/6d/Misfortune_02.png",
+        "healthPoints": "5600",
+        "attackDamage": "350",
+        "armorLevel": "30",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/0d/Misfortune_03.png",
+        "healthPoints": "11200",
+        "attackDamage": "700",
+        "armorLevel": "30",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Undead"],
+    "classes": ["Warlock"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Calamity",
+          "Famine",
+          "Glutton",
+          "Stinger",
+          "The Dark Mage"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Marsh Lord",
+          "Nether Prince",
+          "Void: Doom",
+          "Voodoo Elder"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Miss_Supersonic",
+    "name": "Miss Supersonic",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/3/3e/Miss_Supersonic_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/82/Sonic_Blast_icon.png",
+      "name": "Sonic Blast",
+      "description": " Fires three sonic projectiles that deal 300/525/750 magic damage to random enemies.7 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/3e/Miss_Supersonic_01.png",
+        "healthPoints": "1800",
+        "attackDamage": "135",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/43/Miss_Supersonic_02.png",
+        "healthPoints": "3600",
+        "attackDamage": "270",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d4/Miss_Supersonic_03.png",
+        "healthPoints": "7200",
+        "attackDamage": "540",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Engineer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Bionic Ninja",
+          "Groundsmasher",
+          "Stalker Drone S90",
+          "Steel Fist",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Groundsmasher",
+          "Steel Fist",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Moonlight_Dragon",
+    "name": "Moonlight Dragon",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/f/fe/Moonlight_Dragon_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c1/Nature%27s_Breath_icon.png",
+      "name": "Nature's Breath",
+      "description": " Fires a magic orb infused with natural energy. The orb moves forward for 7 grids and deals 300/400/500 magic damage to enemies in its path, as well as recovers allies' health by 150/200/250.5/4/3 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fe/Moonlight_Dragon_01.png",
+        "healthPoints": "1500",
+        "attackDamage": "135",
+        "armorLevel": "15",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c2/Moonlight_Dragon_02.png",
+        "healthPoints": "3000",
+        "attackDamage": "270",
+        "armorLevel": "15",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/66/Moonlight_Dragon_03.png",
+        "healthPoints": "6000",
+        "attackDamage": "540",
+        "armorLevel": "15",
+        "attackSpeed": "1.7",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Elf", "Dragon"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": { "undefined": ["Dragoon", "Venom"] },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Frost Lotus",
+          "Lightbringer",
+          "Starhorn",
+          "The Dark Mage",
+          "Totemface",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Nether_Prince",
+    "name": "Nether Prince",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/1/14/Nether_Prince_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/ff/Fire_Blast_icon.png",
+      "name": "Fire Blast",
+      "description": " Creates lots of explosions nearby, each dealing 300/450/600 magic damage.20 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/14/Nether_Prince_01.png",
+        "healthPoints": "1500",
+        "attackDamage": "225",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/ad/Nether_Prince_02.png",
+        "healthPoints": "3000",
+        "attackDamage": "450",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/b8/Nether_Prince_03.png",
+        "healthPoints": "6000",
+        "attackDamage": "900",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Demon"],
+    "classes": ["Warlock"],
+    "synergies": {
+      "races": {
+        "undefined": ["Lilith", "Scourge", "The Devourer", "The Executioner"]
+      },
+      "classes": {
+        "undefined": ["Marsh Lord", "Misfortune", "Void: Doom", "Voodoo Elder"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Nightingale",
+    "name": "Nightingale",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/3/37/Nightingale_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/56/Soul_Blade_icon.png",
+      "name": "Soul Blade",
+      "description": " Each attack deals 33/66/100 true damage and reduces target's mana by the same amount, while also increasing own magic resistance by 30%/40%/50%.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/37/Nightingale_01.png",
+        "healthPoints": "1600",
+        "attackDamage": "165",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/3e/Nightingale_02.png",
+        "healthPoints": "3200",
+        "attackDamage": "330",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/ca/Nightingale_03.png",
+        "healthPoints": "6400",
+        "attackDamage": "660",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Elf"],
+    "classes": ["Punisher"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Everbloom",
+          "Evergreen",
+          "Forest's Breath",
+          "Moonlight Dragon",
+          "Stinger",
+          "Sword Dancer",
+          "Unicorn Cavalier"
+        ]
+      },
+      "classes": { "undefined": ["The Devourer"] }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Nightowl",
+    "name": "Nightowl",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/50/Nightowl_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/5c/Summon_Nightowl_Spirit_icon.png",
+      "name": "Summon Nightowl Spirit",
+      "description": " Spirit Summons a nightowl spirit with 350/550/850 attack damage and 3000/4000/5000 health to fight enemies. Its attacks have a 25% chance to stun its targets for 2s.60 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/50/Nightowl_01.png",
+        "healthPoints": "2800",
+        "attackDamage": "200",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/35/Nightowl_02.png",
+        "healthPoints": "4900",
+        "attackDamage": "400",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/06/Nightowl_03.png",
+        "healthPoints": "857500",
+        "attackDamage": "800",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Beast"],
+    "classes": ["Druid"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Horned Menace",
+          "Icetusk",
+          "Marsh Lord",
+          "Venom",
+          "Werewolf",
+          "Witch Doctor"
+        ]
+      },
+      "classes": {
+        "undefined": ["Everbloom", "Evergreen", "Gurru", "Witch Doctor"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Scourge",
+    "name": "Scourge",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/b/bc/Scourge_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8a/Flames_of_War_icon.png",
+      "name": "Flames of War",
+      "description": " Bunches a fireball at a random enemy, dealing 400/600/800 magic damage and stunning the target for 1.5/2/2.5s. If own health percentage is higher than the target's health percentage, increases damage done by 50%; otherwise, extends the stun duration by 1s.5 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bc/Scourge_01.png",
+        "healthPoints": "2200",
+        "attackDamage": "200",
+        "armorLevel": "30",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/15/Scourge_02.png",
+        "healthPoints": "4400",
+        "attackDamage": "400",
+        "armorLevel": "30",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/11/Scourge_03.png",
+        "healthPoints": "8800",
+        "attackDamage": "800",
+        "armorLevel": "30",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Demon"],
+    "classes": ["Rider"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Lilith",
+          "Nether Prince",
+          "The Devourer",
+          "The Executioner"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Calamity",
+          "Dragoon",
+          "Hog Rider",
+          "Templar Knight",
+          "Unicorn Cavalier"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Siren",
+    "name": "Siren",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/4/4a/Siren_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/11/Siren%27s_Song_icon.png",
+      "name": "Siren's Song",
+      "description": " Sings the song of the siren, making enemies within 1 grid attack their allies for 2.5/3.5/4.5s.10/8/6 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/4a/Siren_01.png",
+        "healthPoints": "1700",
+        "attackDamage": "202",
+        "armorLevel": "20",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fc/Siren_02.png",
+        "healthPoints": "3400",
+        "attackDamage": "405",
+        "armorLevel": "20",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8a/Siren_03.png",
+        "healthPoints": "6800",
+        "attackDamage": "810",
+        "armorLevel": "20",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Oceanborn"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": { "undefined": ["General Puffer", "King of the Sea", "Kraken"] },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Headreaper",
+          "Horned Menace",
+          "Lilith",
+          "Stinger",
+          "Sword Dancer",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Stalker_Drone_S90",
+    "name": "Stalker Drone S90",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/cb/Stalker_Drone_S90_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bd/Judgement_icon.png",
+      "name": "Judgement",
+      "description": " Each normal attack has 30% chance of transforming into a laser beam. The laser beam deals 20%/30%/40% physical damage and bounces between 3/4/5 enemies, each bounce dealing 30% damage.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/cb/Stalker_Drone_S90_01.png",
+        "healthPoints": "1550",
+        "attackDamage": "230",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "7"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/41/Stalker_Drone_S90_02.png",
+        "healthPoints": "3100",
+        "attackDamage": "460",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "7"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/09/Stalker_Drone_S90_03.png",
+        "healthPoints": "6200",
+        "attackDamage": "920",
+        "armorLevel": "15",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "7"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Hunter"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Bionic Ninja",
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Steel Fist",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Famine",
+          "Firefur",
+          "Forest's Breath",
+          "Hog Rider",
+          "King of the Sea",
+          "Kraken"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Starhorn",
+    "name": "Starhorn",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/d/d6/Starhorn_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/07/Meditation_icon.png",
+      "name": "Meditation",
+      "description": " Creates a silencing zone at a random enemy location, dealing 250/375/500 magical damage to nearby enemies every second and silencing them for 3s.20 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d6/Starhorn_01.png",
+        "healthPoints": "2400",
+        "attackDamage": "210",
+        "armorLevel": "30",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/a1/Starhorn_02.png",
+        "healthPoints": "4800",
+        "attackDamage": "420",
+        "armorLevel": "30",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/6b/Starhorn_03.png",
+        "healthPoints": "9600",
+        "attackDamage": "840",
+        "armorLevel": "30",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Furry"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": { "undefined": ["Bangar", "Firefur", "Wukong"] },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Frost Lotus",
+          "Lightbringer",
+          "Moonlight Dragon",
+          "The Dark Mage",
+          "Totemface",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Steel_Fist",
+    "name": "Steel Fist",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/1/16/Steel_Fist_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/48/Lava_Blast_icon.png",
+      "name": "Lava Blast",
+      "description": " Fires a lava blast at a random enemy within 2 grids every 0.7s for 5s, dealing 150/225/300 magic damage and stunning the target for 0.75s.12/10/8 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/16/Steel_Fist_01.png",
+        "healthPoints": "2400",
+        "attackDamage": "150",
+        "armorLevel": "35",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/8c/Steel_Fist_02.png",
+        "healthPoints": "4800",
+        "attackDamage": "300",
+        "armorLevel": "35",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/41/Steel_Fist_03.png",
+        "healthPoints": "9600",
+        "attackDamage": "600",
+        "armorLevel": "35",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Engineer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Bionic Ninja",
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Stalker Drone S90",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Terminater",
+          "The Ultimate Weapon"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Stinger",
+    "name": "Stinger",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/9/9a/Elf_icon.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/38/Creeping_Revelation_icon.png",
+      "name": "Creeping Revelation",
+      "description": " Grants normal attacks a 15% chance to be critical hits, dealing 350%/475%/600% physical damage.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d5/Stinger_01.png",
+        "healthPoints": "1750",
+        "attackDamage": "205",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fe/Stinger_02.png",
+        "healthPoints": "3500",
+        "attackDamage": "410",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/43/Stinger_03.png",
+        "healthPoints": "7000",
+        "attackDamage": "820",
+        "armorLevel": "20",
+        "attackSpeed": "1.2",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Elf", "Undead"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Calamity",
+          "Famine",
+          "Glutton",
+          "Misfortune",
+          "The Dark Mage"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Headreaper",
+          "Horned Menace",
+          "Lilith",
+          "Siren",
+          "Sword Dancer",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Sword_Dancer",
+    "name": "Sword Dancer",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/e6/Sword_Dancer_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/28/Phantom_Formation_icon.png",
+      "name": "Phantom Formation",
+      "description": " Summons an array of phantom swords that grants Sword Dancer a shield that blocks 4/6/8 attacks and 4/6/8 daggers that increase attack damage by 120/180/240 each, consumed with each normal attack.6 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e6/Sword_Dancer_01.png",
+        "healthPoints": "2250",
+        "attackDamage": "300",
+        "armorLevel": "30",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/29/Sword_Dancer_02.png",
+        "healthPoints": "4500",
+        "attackDamage": "600",
+        "armorLevel": "30",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/72/Sword_Dancer_03.png",
+        "healthPoints": "9000",
+        "attackDamage": "1200",
+        "armorLevel": "30",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Elf"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Everbloom",
+          "Evergreen",
+          "Forest's Breath",
+          "Moonlight Dragon",
+          "Nightingale",
+          "Stinger",
+          "Unicorn Cavalier"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Headreaper",
+          "Horned Menace",
+          "Lilith",
+          "Siren",
+          "Stinger",
+          "Venom"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Templar_Knight",
+    "name": "Templar Knight",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/cf/Templar_Knight_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/3/3a/Blessing_Light_icon.png",
+      "name": "Blessing Light",
+      "description": " Casts a holy light on the ally with lowest health (including himself) to restore 600/900/1200 health and deal 600/900/1200 true damage to enemies within 2 grids.10 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/cf/Templar_Knight_01.png",
+        "healthPoints": "2400",
+        "attackDamage": "180",
+        "armorLevel": "40",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bd/Templar_Knight_02.png",
+        "healthPoints": "4800",
+        "attackDamage": "360",
+        "armorLevel": "40",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/0c/Templar_Knight_03.png",
+        "healthPoints": "9600",
+        "attackDamage": "720",
+        "armorLevel": "40",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Human"],
+    "classes": ["Rider"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Dragoon",
+          "Flamecaller",
+          "Frost Lotus",
+          "General of War",
+          "Lightbringer",
+          "Werewolf"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Calamity",
+          "Dragoon",
+          "Hog Rider",
+          "Scourge",
+          "Unicorn Cavalier"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Terminater",
+    "name": "Terminater",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/7/72/Terminater_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/4c/Calling_Fleet_icon.png",
+      "name": "Calling Fleet",
+      "description": " Calls fleet to attack a random enemy after 1.5s and 3s, each attack dealing 600/900/1200 magic damage to all enemies within 5 grids.10 seconds cooldown.\n"
+    },
+    "rarity": "Legendary",
+    "cost": "5",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/72/Terminater_01.png",
+        "healthPoints": "2800",
+        "attackDamage": "212",
+        "armorLevel": "40",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "5"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/2a/Terminater_02.png",
+        "healthPoints": "5600",
+        "attackDamage": "425",
+        "armorLevel": "40",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "5"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/18/Terminater_03.png",
+        "healthPoints": "11200",
+        "attackDamage": "850",
+        "armorLevel": "40",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "5"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Engineer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Bionic Ninja",
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Stalker Drone S90",
+          "Steel Fist",
+          "The Ultimate Weapon"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Steel Fist",
+          "The Ultimate Weapon"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/The_Dark_Mage",
+    "name": "The Dark Mage",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/c/c0/The_Dark_Mage_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/5e/Nightmare_Blast_icon.png",
+      "name": "Nightmare Blast",
+      "description": " Fire a nightmare blast at one random enemy. The blast bounces between enemies within 4 grids of the original target and deals 600/900/1200 magic damage each time for a total of 6/9/12 times. Each bounce also reduces the target's attack speed by 65 for 2.5s.10/8/6 seconds cooldown.\n"
+    },
+    "rarity": "Legendary",
+    "cost": "5",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c0/The_Dark_Mage_01.png",
+        "healthPoints": "2650",
+        "attackDamage": "200",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/59/The_Dark_Mage_02.png",
+        "healthPoints": "5300",
+        "attackDamage": "400",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/ab/The_Dark_Mage_03.png",
+        "healthPoints": "10600",
+        "attackDamage": "800",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Undead"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": {
+        "undefined": ["Calamity", "Famine", "Glutton", "Misfortune", "Stinger"]
+      },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Frost Lotus",
+          "Lightbringer",
+          "Moonlight Dragon",
+          "Starhorn",
+          "Totemface",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/The_Devourer",
+    "name": "The Devourer",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/f/f2/The_Devourer_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/85/Metamorphosis_icon.png",
+      "name": "Metamorphosis",
+      "description": " Transforms into a demon and drains a random enemy's health by 50%. Becomes a ranged hero and gains 50/100/200 attack damage and 65 attack speed.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/f2/The_Devourer_01.png",
+        "healthPoints": "2200",
+        "attackDamage": "190",
+        "armorLevel": "25",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/73/The_Devourer_02.png",
+        "healthPoints": "4400",
+        "attackDamage": "380",
+        "armorLevel": "25",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/db/The_Devourer_03.png",
+        "healthPoints": "8800",
+        "attackDamage": "760",
+        "armorLevel": "25",
+        "attackSpeed": "1.4",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Demon"],
+    "classes": ["Punisher"],
+    "synergies": {
+      "races": {
+        "undefined": ["Lilith", "Nether Prince", "Scourge", "The Executioner"]
+      },
+      "classes": { "undefined": ["Nightingale"] }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/The_Executioner",
+    "name": "The Executioner",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/6f/The_Executioner_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c2/Curse_icon.png",
+      "name": "Curse",
+      "description": " Curses an enemy with highest level, dealing 180/270/360 true damage every second and stopping the target from using abilities for 20s. Ignores ability immunity.10 seconds cooldown.\n"
+    },
+    "rarity": "Mythic",
+    "cost": "4",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/6f/The_Executioner_01.png",
+        "healthPoints": "3000",
+        "attackDamage": "325",
+        "armorLevel": "30",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d2/The_Executioner_02.png",
+        "healthPoints": "6000",
+        "attackDamage": "650",
+        "armorLevel": "30",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/f/fe/The_Executioner_03.png",
+        "healthPoints": "12000",
+        "attackDamage": "1300",
+        "armorLevel": "30",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Demon"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": {
+        "undefined": ["Lilith", "Nether Prince", "Scourge", "The Devourer"]
+      },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General Puffer",
+          "General of War",
+          "Glutton",
+          "Icetusk",
+          "Warrior",
+          "Werewolf",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/The_Ultimate_Weapon",
+    "name": "The Ultimate Weapon",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/1/1f/The_Ultimate_Weapon_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/25/Time_Bomb_icon.png",
+      "name": "Time Bomb",
+      "description": " Plants a time bomb nearby that explodes after 3s, dealing 1800/2400/3000 physical damage to enemies within 5 grids.10 seconds cooldown.\n"
+    },
+    "rarity": "Legendary",
+    "cost": "5",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/1f/The_Ultimate_Weapon_01.png",
+        "healthPoints": "2800",
+        "attackDamage": "170",
+        "armorLevel": "35",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/bf/The_Ultimate_Weapon_02.png",
+        "healthPoints": "5600",
+        "attackDamage": "340",
+        "armorLevel": "35",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/4/4a/The_Ultimate_Weapon_03.png",
+        "healthPoints": "11200",
+        "attackDamage": "680",
+        "armorLevel": "35",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "4"
+      }
+    ],
+    "races": ["Cyborg"],
+    "classes": ["Engineer"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Bionic Ninja",
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Stalker Drone S90",
+          "Steel Fist",
+          "Terminater"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Groundsmasher",
+          "Miss Supersonic",
+          "Steel Fist",
+          "Terminater"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Totemface",
+    "name": "Totemface",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/9/91/Totemface_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/ab/Body_Swap_icon.png",
+      "name": "Body Swap",
+      "description": " Swap the body of a random enemy with a weak animal for 4/6/8s, rendering the target unable to attack or use abilities.10 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [],
+    "races": ["Goblin"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": {
+        "undefined": ["Berserker", "Headreaper", "Hog Rider", "Voodoo Elder"]
+      },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Frost Lotus",
+          "Lightbringer",
+          "Moonlight Dragon",
+          "Starhorn",
+          "The Dark Mage",
+          "Void: Destruction"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Unicorn_Cavalier",
+    "name": "Unicorn Cavalier",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/64/Unicorn_Cavalier_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e9/Wind_Blade_icon.png",
+      "name": "Wind Blade",
+      "description": " The flying dagger from each attack will bounce between enemies within 4 grids up to 3/5/7 times after it hits an enemy. Each bounce reduces the damage by 40%.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/64/Unicorn_Cavalier_01.png",
+        "healthPoints": "1750",
+        "attackDamage": "175",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/00/Unicorn_Cavalier_02.png",
+        "healthPoints": "3500",
+        "attackDamage": "350",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/7f/Unicorn_Cavalier_03.png",
+        "healthPoints": "7000",
+        "attackDamage": "700",
+        "armorLevel": "20",
+        "attackSpeed": "1.3",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Elf"],
+    "classes": ["Rider"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Everbloom",
+          "Evergreen",
+          "Forest's Breath",
+          "Moonlight Dragon",
+          "Nightingale",
+          "Stinger",
+          "Sword Dancer"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Calamity",
+          "Dragoon",
+          "Hog Rider",
+          "Scourge",
+          "Templar Knight"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Venom",
+    "name": "Venom",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/e/ef/Venom_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/dc/Deadly_Poison_icon.png",
+      "name": "Deadly Poison",
+      "description": " Sprays venom on a random enemy, dealing 450/750/1050 magic damage every second and reducing the target's attack speed by 40/60/80 for 5s. The attack speed reduction ignores ability immunity.10/7/4 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/ef/Venom_01.png",
+        "healthPoints": "1750",
+        "attackDamage": "165",
+        "armorLevel": "25",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/db/Venom_02.png",
+        "healthPoints": "3500",
+        "attackDamage": "330",
+        "armorLevel": "25",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/b2/Venom_03.png",
+        "healthPoints": "7000",
+        "attackDamage": "660",
+        "armorLevel": "25",
+        "attackSpeed": "1",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Dragon", "Beast"],
+    "classes": ["Assassin"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Horned Menace",
+          "Icetusk",
+          "Marsh Lord",
+          "Nightowl",
+          "Werewolf",
+          "Witch Doctor"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bionic Ninja",
+          "Headreaper",
+          "Horned Menace",
+          "Lilith",
+          "Siren",
+          "Stinger",
+          "Sword Dancer"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Void:_Destruction",
+    "name": "Void: Destruction",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/5/5a/Void_Destruction_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/60/Aurora_icon.png",
+      "name": "Aurora",
+      "description": " Creates a field with a maximum radius of 3/4/5 grids that shrinks upon reaching the maximum size. The field deals damage to enemies once while expanding and once while shrinking. Enemies further away from the him take more damage (30-300/600/900).14/12/10 seconds cooldown.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/5/5a/Void_Destruction_01.png",
+        "healthPoints": "1750",
+        "attackDamage": "165",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/7d/Void_Destruction_02.png",
+        "healthPoints": "3500",
+        "attackDamage": "330",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/d0/Void_Destruction_03.png",
+        "healthPoints": "7000",
+        "attackDamage": "660",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Void"],
+    "classes": ["Sorcerer"],
+    "synergies": {
+      "races": { "undefined": ["Void: Doom"] },
+      "classes": {
+        "undefined": [
+          "Flamecaller",
+          "Frost Lotus",
+          "Lightbringer",
+          "Moonlight Dragon",
+          "Starhorn",
+          "The Dark Mage",
+          "Totemface"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Void:_Doom",
+    "name": "Void: Doom",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/6/6c/Void_Doom_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/ce/Void_Meteor_icon.png",
+      "name": "Void Meteor",
+      "description": " Deals true damage equal to 5%/7%/9% of their Max health every second to enemies within 4 grids for a total of 10s.20 seconds cooldown.\n"
+    },
+    "rarity": "Legendary",
+    "cost": "5",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/6c/Void_Doom_01.png",
+        "healthPoints": "3000",
+        "attackDamage": "170",
+        "armorLevel": "35",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/29/Void_Doom_02.png",
+        "healthPoints": "6000",
+        "attackDamage": "340",
+        "armorLevel": "35",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/25/Void_Doom_03.png",
+        "healthPoints": "12000",
+        "attackDamage": "680",
+        "armorLevel": "35",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Void"],
+    "classes": ["Warlock"],
+    "synergies": {
+      "races": { "undefined": ["Void: Destruction"] },
+      "classes": {
+        "undefined": [
+          "Marsh Lord",
+          "Misfortune",
+          "Nether Prince",
+          "Voodoo Elder"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Voodoo_Elder",
+    "name": "Voodoo Elder",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/1/18/Voodoo_Elder_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/a/ab/Voodoo_icon.png",
+      "name": "Voodoo",
+      "description": " Fires paralyzing venom at a random enemy. The venom bounces between enemies for a total 2/4/6 times, with each bounce dealing 150/225/300 magic damage and stunning the target for 1s.10 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/1/18/Voodoo_Elder_01.png",
+        "healthPoints": "1800",
+        "attackDamage": "135",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/9/91/Voodoo_Elder_02.png",
+        "healthPoints": "3600",
+        "attackDamage": "270",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/e/e0/Voodoo_Elder_03.png",
+        "healthPoints": "7200",
+        "attackDamage": "540",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Goblin"],
+    "classes": ["Warlock"],
+    "synergies": {
+      "races": {
+        "undefined": ["Berserker", "Headreaper", "Hog Rider", "Totemface"]
+      },
+      "classes": {
+        "undefined": ["Marsh Lord", "Misfortune", "Nether Prince", "Void: Doom"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Werewolf",
+    "name": "Werewolf",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/0/09/Werewolf_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/79/Transformation_icon.png",
+      "name": "Transformation",
+      "description": " Transforms into a wolf, increasing maximum health by 20%/30%/40%. Also summons 1 wolf spirit with 300/400/550 attack damage and 2000/3000/4500 health to fight enemies.\n"
+    },
+    "rarity": "Rare",
+    "cost": "3",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/09/Werewolf_01.png",
+        "healthPoints": "2400",
+        "attackDamage": "165",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/d/da/Werewolf_02.png",
+        "healthPoints": "4800",
+        "attackDamage": "330",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/6e/Werewolf_03.png",
+        "healthPoints": "9600",
+        "attackDamage": "660",
+        "armorLevel": "30",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Human", "Beast"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Horned Menace",
+          "Icetusk",
+          "Marsh Lord",
+          "Nightowl",
+          "Venom",
+          "Witch Doctor"
+        ]
+      },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General Puffer",
+          "General of War",
+          "Glutton",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Wukong"
+        ]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Witch_Doctor",
+    "name": "Witch Doctor",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/0/09/Witch_Doctor_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/08/Shared_Life_icon.png",
+      "name": "Shared Life",
+      "description": " Summons a totem to heal herself and allies for 225/300/375 every 1.5s within 4 grids. Healing is distributed evenly among all targets.15 seconds cooldown.\n"
+    },
+    "rarity": "Common",
+    "cost": "1",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/0/09/Witch_Doctor_01.png",
+        "healthPoints": "1400",
+        "attackDamage": "165",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/b/be/Witch_Doctor_02.png",
+        "healthPoints": "2450",
+        "attackDamage": "330",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/6/62/Witch_Doctor_03.png",
+        "healthPoints": "4280",
+        "attackDamage": "660",
+        "armorLevel": "20",
+        "attackSpeed": "1.5",
+        "magicResist": "0",
+        "attackRange": "3"
+      }
+    ],
+    "races": ["Beast"],
+    "classes": ["Druid"],
+    "synergies": {
+      "races": {
+        "undefined": [
+          "Horned Menace",
+          "Icetusk",
+          "Marsh Lord",
+          "Nightowl",
+          "Venom",
+          "Werewolf"
+        ]
+      },
+      "classes": {
+        "undefined": ["Everbloom", "Evergreen", "Gurru", "Nightowl"]
+      }
+    }
+  },
+  {
+    "link": "https://chessrush.fandom.com/wiki/Wukong",
+    "name": "Wukong",
+    "picture": "https://vignette.wikia.nocookie.net/chessrush/images/7/7f/Wukong_01.png",
+    "skill": {
+      "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/8/88/Whirlwind_icon.png",
+      "name": "Whirlwind",
+      "description": " Spins the iron staff rapidly, dealing 150/300/450 magic damage per second to enemies within 2 grids. Dispels all low-level debuffs and gains ability immunity for 5s. Increases damage done by 33% when attacking a single target.10 seconds cooldown.\n"
+    },
+    "rarity": "Uncommon",
+    "cost": "2",
+    "stats": [
+      {
+        "level": 1,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/7/7f/Wukong_01.png",
+        "healthPoints": "1800",
+        "attackDamage": "202",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 2,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/2/21/Wukong_02.png",
+        "healthPoints": "3600",
+        "attackDamage": "405",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      },
+      {
+        "level": 3,
+        "pictureUrl": "https://vignette.wikia.nocookie.net/chessrush/images/c/c5/Wukong_03.png",
+        "healthPoints": "7200",
+        "attackDamage": "810",
+        "armorLevel": "20",
+        "attackSpeed": "1.1",
+        "magicResist": "0",
+        "attackRange": "1"
+      }
+    ],
+    "races": ["Furry"],
+    "classes": ["Warrior"],
+    "synergies": {
+      "races": { "undefined": ["Bangar", "Firefur", "Starhorn"] },
+      "classes": {
+        "undefined": [
+          "Bangar",
+          "Berserker",
+          "General Puffer",
+          "General of War",
+          "Glutton",
+          "Icetusk",
+          "The Executioner",
+          "Warrior",
+          "Werewolf"
+        ]
+      }
+    }
+  }
+]

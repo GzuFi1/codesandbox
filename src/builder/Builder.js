@@ -1,10 +1,12 @@
 import React, { Component } from "react";
 import SplitPane from "react-split-pane";
+import loadObjects from "./ObjectsLoader";
 import "../styles.css";
+import Champions from "./Champions";
 
 class App extends Component {
   state = {
-    characters: []
+    objects: loadObjects()
   };
 
   removeCharacter = index => {
@@ -25,7 +27,9 @@ class App extends Component {
     return (
       <div className="container">
         <SplitPane step="0" defaultSize="30%">
-          <div>Champions</div>
+          <div>
+            <Champions />
+          </div>
           <div>
             <SplitPane split="horizontal" step="0" defaultSize="40%">
               <div>Team</div>

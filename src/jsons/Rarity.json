@@ -1,0 +1,27 @@
+{
+  "Common": {
+    "name": "Common",
+    "link": "https://chessrush.fandom.com/wiki/Common",
+    "cost": "1"
+  },
+  "Legendary": {
+    "name": "Legendary",
+    "link": "https://chessrush.fandom.com/wiki/Legendary",
+    "cost": "5"
+  },
+  "Mythic": {
+    "name": "Mythic",
+    "link": "https://chessrush.fandom.com/wiki/Mythic",
+    "cost": "4"
+  },
+  "Rare": {
+    "name": "Rare",
+    "link": "https://chessrush.fandom.com/wiki/Rare",
+    "cost": "3"
+  },
+  "Uncommon": {
+    "name": "Uncommon",
+    "link": "https://chessrush.fandom.com/wiki/Uncommon",
+    "cost": "2"
+  }
+}
