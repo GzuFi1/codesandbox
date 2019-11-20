@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import SplitPane from "react-split-pane";
 import loadObjects from "./ObjectsLoader";
-import "../styles.css";
+import "../styles/styles.css";
 import Champions from "./Champions";
 
 class App extends Component {

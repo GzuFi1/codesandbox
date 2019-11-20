@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Champion from "./Champion";
 
 class Champions extends Component {
   constructor(props) {
@@ -16,7 +17,9 @@ class Champions extends Component {
     let rows = champions.map((row, index) => {
       return (
         <tr key={index}>
-          <td>{row.link}</td>
+          <td>
+            <Champion champion={row} index={index} />
+          </td>
         </tr>
       );
     });

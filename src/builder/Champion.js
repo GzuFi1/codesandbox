@@ -1,19 +1,42 @@
 import React, { Component } from "react";
+import "../styles/box.css";
 
 class Champion extends Component {
   constructor(props) {
     super(props);
 
     this.initialState = {
-      champions: require("../jsons/Heroes.json")
+      link: "",
+      name: "",
+      picture: "",
+      skills: [],
+      rarity: "",
+      cost: 0,
+      stats: [],
+      races: [],
+      classes: [],
+      synergies: []
     };
-    console.log(this.initialState);
     this.state = this.initialState;
   }
 
   render() {
-    return <h1>hi</h1>;
+    const { index } = this.props;
+    const {
+      link,
+      name,
+      picture,
+      skill,
+      rarity,
+      cost,
+      stats,
+      races,
+      classes,
+      synergies
+    } = this.props.champion;
+    console.log(link);
+    return <div className="box">{name}</div>;
   }
 }
 
-export default Champions;
+export default Champion;
